@@ -1,5 +1,5 @@
 # Preprocessing-and-Exploratory-Data-Analysis
-Preprocessing, descriptive statistics, graphical methods for exploratory analysis, and distribution analysis of the observed variable.
+
 
 This repository contains a series of tasks for analyzing a vector of observations, including:
 1. Computing Central Tendency Indicators: Mean and median.
